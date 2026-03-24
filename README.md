@@ -4,7 +4,7 @@
 ![Requests](https://img.shields.io/badge/Library-Requests-red.svg)
 ![Regex](https://img.shields.io/badge/Logic-Regex-yellow.svg)
 
-An end-to-end data mining pipeline designed to scrape, archive, and parse academic thesis records from the official French portal **theses.fr**. This tool focuses on harvesting metadata for the "Lettres modernes" discipline (1965–2019).
+An end-to-end data mining pipeline designed to scrape, archive, and parse academic thesis records from the official French portal **thesis.fr**. This tool focuses on harvesting metadata for the "Lettres modernes" discipline (1965–2019).
 
 ---
 
