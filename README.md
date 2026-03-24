@@ -1,4 +1,4 @@
-#  French Thesis Metadata Miner (theses.fr)
+#  French Thesis Metadata Miner (thesis.fr)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![Requests](https://img.shields.io/badge/Library-Requests-red.svg)
